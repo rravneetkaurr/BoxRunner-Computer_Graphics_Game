@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\BoxRunner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61E5A4BF-5504-48D6-A239-C248F5FA8D18}|BoxRunner\\BoxRunner.vcxproj|C:\\Users\\hp\\source\\repos\\BoxRunner\\BoxRunner\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61E5A4BF-5504-48D6-A239-C248F5FA8D18}|BoxRunner\\BoxRunner.vcxproj|solutionrelative:BoxRunner\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\BoxRunner\\BoxRunner\\FileName.cpp",
+              "RelativeDocumentMoniker": "BoxRunner\\FileName.cpp",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\BoxRunner\\BoxRunner\\FileName.cpp",
+              "RelativeToolTip": "BoxRunner\\FileName.cpp",
+              "ViewState": "AgIAAIgBAAAAAAAAAAAEwJsBAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-06T17:56:20.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
